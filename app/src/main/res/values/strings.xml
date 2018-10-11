@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">NobelPrizeViewer</string>
+
+    <string name="phys_btn_text">Physics</string>
+    <string name="med_btn_text">Medicine</string>
+    <string name="pce_btn_text">Peace</string>
+    <string name="chem_btn_text">Chemistry</string>
+
+    <string name="detail_tab">NobelPrizeViewer:Details</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
