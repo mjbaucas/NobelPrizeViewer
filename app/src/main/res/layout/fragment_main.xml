@@ -16,7 +16,6 @@
             android:layout_width="match_parent"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
             android:text="@string/phys_btn_text"/>
 
         <Button
@@ -24,7 +23,6 @@
             android:layout_width="match_parent"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
             android:text="@string/med_btn_text"/>
 
         <Button
@@ -32,7 +30,6 @@
             android:layout_width="match_parent"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
             android:text="@string/pce_btn_text"/>
 
         <Button
@@ -40,7 +37,6 @@
             android:layout_width="match_parent"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
             android:text="@string/chem_btn_text"/>
 
     </LinearLayout>
